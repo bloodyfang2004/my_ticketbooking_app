@@ -1,0 +1,30 @@
+*{
+    margin:10px;
+}
+
+.my_container{
+    
+    border: 2px solid rgb(247, 80, 80);
+}
+
+.my_panel{
+
+    width: 80%;
+    margin: auto;
+    height: auto;
+    border: 1px dashed rgb(81, 133, 237)
+}
+
+.input_form{
+
+    border: 1px solid rgb(120, 120, 237);
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    text-align: justify;
+
+}
